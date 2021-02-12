@@ -16,6 +16,7 @@
 		</dependency>
 
 		<!-- Spring MVC support -->
+		<!-- Spring MVC support -->
 
 		<dependency>
 			<groupId>org.springframework</groupId>
